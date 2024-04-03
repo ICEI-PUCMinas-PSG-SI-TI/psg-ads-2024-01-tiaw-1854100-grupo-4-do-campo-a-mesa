@@ -1,4 +1,4 @@
-# Do campo a mesa
+# Do campo à mesa
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
