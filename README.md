@@ -3,17 +3,17 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Felipe Augusto Lima Lopes
+* Gabriel Carneiro de Brito
 * Ricardo Araújo Maciel
-* Nome completo do aluno 4
-* Nome completo do aluno 4
-* Nome completo do aluno 4
+* João Victor Rodrigues Viana dos Santos
+* Matheus Vieira Alane Fernandes
+* Vitor Fortunato Silva
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Felipe Augusto Lima Reis
+* Caroline Rhaian da Silva Jandre
 
 ## Quadro de tarefas
 Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.
