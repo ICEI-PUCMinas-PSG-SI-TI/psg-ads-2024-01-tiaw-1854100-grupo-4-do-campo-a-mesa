@@ -16,7 +16,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Caroline Rhaian da Silva Jandre
 
 ## Quadro de tarefas
-https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/35/views/1)
+https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/34
 
 ## Instruções para uso
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
