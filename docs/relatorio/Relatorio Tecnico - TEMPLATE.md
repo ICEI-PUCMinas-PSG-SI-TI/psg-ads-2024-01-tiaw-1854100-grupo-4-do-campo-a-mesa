@@ -114,18 +114,25 @@ etc.
 
 ## Personas
 Nome: Miguel Santos
+
 Idade: 26
+
 Hobby: nascido e criado no campo antes de se mudar para a cidade, Miguel sempre gostou de ajudar o seus pais em sua terra, auxiliando em atividades diversas, porém a que mais sentia (e ainda sente) prazer ,é no plantio e cultivo da horta.
+
 Trabalho: Estágio em agronomia 
+
 Personalidade: Um jovem sagaz, esforçado , ambicioso e comprometido com tudo o que se propõe a fazer.
+
 Sonho: Futuramente assumir o sítio de seus pais,  expandir o quantidade de opções no plantio e comercializar em grande escala implantando as novas tecnologias do setor agroindustrial .
 
 Objetos e lugares:
 Ferramentas: Em seu estágio ele utiliza ferramentas simples como pás e enxadas, e também ferramentas importantes como os arados, semeadores, pulverizadores, subsoladores e etc. Dos quais são usadas para preparar o solo, depositar sementes, aplicar fertilizantes, descompactar a terra e outras mais.
 Smartphones, tablets e computadores: equipamentos digitais utilizados para monitorar, armazenar dados importantes sobre os processos realizados no campo, contagem e etc. Além do uso de redes sociais para a divulgação do trabalho e dos projetos de inovação realizados naquele devido ambiente.
+
 Objetivos chave:
 1: Se integrar e interagir com profissionais mais experientes do mesmo nicho para receber orientações, compartilhamento de experiências e dicas importantes que poderão acrescentar ainda mais ao seu nível de conhecimento atual, assim o tornando um profissional mais capacitado e competente.
 2: se manter atualizado com as novas tecnologias  e tendências do setor agroindustrial (principalmente no quesito sustentabilidade), afim de implementar os mesmos em seu próprio ambiente de trabalho.
+
 Como devemos tratá-lo:
 O acolher de braços abertos para dentro da comunidade, respeitar suas opiniões e ideias, ouvi-lo, fazer com que o mesmo se sinta parte do ambiente, compartilhar suas experiências como profissional, tornar o ambiente de interação amigável e respeitar o seu tempo de aprendizagem como um iniciante da área que ele é.
 
