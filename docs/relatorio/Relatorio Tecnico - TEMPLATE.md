@@ -113,6 +113,22 @@ etc.
 > realizar a especificações do projeto
 
 ## Personas
+Nome: Miguel Santos
+Idade: 26
+Hobby: nascido e criado no campo antes de se mudar para a cidade, Miguel sempre gostou de ajudar o seus pais em sua terra, auxiliando em atividades diversas, porém a que mais sentia (e ainda sente) prazer ,é no plantio e cultivo da horta.
+Trabalho: Estágio em agronomia 
+Personalidade: Um jovem sagaz, esforçado , ambicioso e comprometido com tudo o que se propõe a fazer.
+Sonho: Futuramente assumir o sítio de seus pais,  expandir o quantidade de opções no plantio e comercializar em grande escala implantando as novas tecnologias do setor agroindustrial .
+
+Objetos e lugares:
+Ferramentas: Em seu estágio ele utiliza ferramentas simples como pás e enxadas, e também ferramentas importantes como os arados, semeadores, pulverizadores, subsoladores e etc. Dos quais são usadas para preparar o solo, depositar sementes, aplicar fertilizantes, descompactar a terra e outras mais.
+Smartphones, tablets e computadores: equipamentos digitais utilizados para monitorar, armazenar dados importantes sobre os processos realizados no campo, contagem e etc. Além do uso de redes sociais para a divulgação do trabalho e dos projetos de inovação realizados naquele devido ambiente.
+Objetivos chave:
+1: Se integrar e interagir com profissionais mais experientes do mesmo nicho para receber orientações, compartilhamento de experiências e dicas importantes que poderão acrescentar ainda mais ao seu nível de conhecimento atual, assim o tornando um profissional mais capacitado e competente.
+2: se manter atualizado com as novas tecnologias  e tendências do setor agroindustrial (principalmente no quesito sustentabilidade), afim de implementar os mesmos em seu próprio ambiente de trabalho.
+Como devemos tratá-lo:
+O acolher de braços abertos para dentro da comunidade, respeitar suas opiniões e ideias, ouvi-lo, fazer com que o mesmo se sinta parte do ambiente, compartilhar suas experiências como profissional, tornar o ambiente de interação amigável e respeitar o seu tempo de aprendizagem como um iniciante da área que ele é.
+
 
 ![Joana tiaw](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/assets/160651971/fddbafac-3717-4e6e-8389-c6e7eb814fa3)
 
@@ -129,6 +145,9 @@ Desafios: Joana enfrenta desafios como a falta de acesso a informações sobre p
 Objetivos: Joana gostaria de encontrar um software que pudesse ajudá-la a melhorar a produtividade de sua terra de forma sustentável, conectá-la a mercados locais para vender seus produtos e fornecer informações sobre nutrição e dietas saudáveis para sua família e comunidade.
 
 Como o projeto pode ajudar: O projeto pode desenvolver um aplicativo que forneça a Joana informações sobre práticas agrícolas sustentáveis, conecte-a a compradores locais interessados em produtos agrícolas sustentáveis e ofereça informações sobre nutrição e dietas saudáveis baseadas em alimentos disponíveis localmente.
+
+
+
 
 > Relacione as personas identificadas no seu projeto. Lembre-se que 
 > você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
