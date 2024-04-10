@@ -1,21 +1,20 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Do Campo à Mesa: Estratégias para Acabar com a Fome e Promover a Sustentabilidade Alimentar.
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Tecnologia em Análise e Desenvolv. de Sistemas - Unid. Educ. São Gabriel - PSG - Manhã - 2024/1
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Felipe Augusto Lima Lopes
+- Gabriel Carneiro de Brito
+- Ricardo Araújo Maciel
+- João Victor Rodrigues Viana dos Santos
+- Matheus Vieira Alane Fernandes
+- Vitor Fortunato Silva
 
 # Estrutura do Documento
 
@@ -39,7 +38,10 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+// problema  a ser discutido
+
+ A fome, insegurança alimentar, a má nutrição e a agricultura não sustentável são desafios globais. Milhões de pessoas enfrentam dificuldades para acessar alimentos adequados e nutritivos. A segurança alimentar não é apenas ua questão de disponibilidade, mas também de acesso fisíco, econômico e social a alimentos saudáveis em quantidade suficiente. A nutrição inadequada afeta muitos, com a desnutrição, a obesidade e as deficiências de nutrientes sendo problemas comuns. A agricultura desempenha um papel crucial na segurança alimentar, mas práticas não sustentáveis podem causar danos ambientais.
+ Em resumo, os desafios relacionados à fome, segurança alimentar, nutrição e agricultura sustentável são complexos e interconectados, exigindo abordagens integradas e multissetoriais para enfrentá-los de forma eficaz.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -51,7 +53,19 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+//objetivos a serem discutidos
+
+Desenvolver um plataforma que permita rastrear a produção, distribuição e consumo de alimentos, facilitando a doação de alimentos excedentes para instituições de caridade e comunidades carentes.
+
+Criar uma plataforma online que conecte agricultores locais a consumidores, promovendo a compra de alimentos frescos e locais, apoiando assim a agricultura sustentável e fortalecendo as comunidades locais.
+
+Desenvolver uma plataforma interativa que forneçam informações sobre nutrição, dietas saudáveis ​​e como utilizar alimentos disponíveis localmente para promover hábitos alimentares mais saudáveis.
+
+Criar sistemas que monitorem o uso de recursos naturais na agricultura, como água e fertilizantes, ajudando os agricultores a adotar práticas mais sustentáveis.
+
+Desenvolver uma plataforma onde agricultores, pesquisadores e especialistas possam colaborar e compartilhar soluções inovadoras para os desafios enfrentados na agricultura sustentável.
+
+Desenvolver uma plataforma que ajudem as pessoas a planejar refeições saudáveis ​​e econômicas, utilizando ingredientes disponíveis localmente e de baixo custo.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -64,7 +78,9 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+// a definir
+
+Agricultores, estudantes e professores em agricultura e nutrição, ongs e intituições de caridade e consumidores.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -83,7 +99,14 @@
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+// Discutir a plataforma do software
+
+// discutir as funcionalidades do software descritas nos objetivos
+
+// projetar a interface do usuário relacionada ao público-alvo
+
+// considerar a segurança de dados e integração com outras plataformas
+etc.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -91,7 +114,21 @@
 
 ## Personas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![Joana tiaw](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/assets/160651971/fddbafac-3717-4e6e-8389-c6e7eb814fa3)
+
+Nome: Joana
+
+Idade: 32 anos
+
+Profissão: Agricultora familiar
+
+Descrição: Joana vive em uma comunidade rural onde trabalha em sua pequena propriedade agrícola, cultivando principalmente alimentos básicos para sua família e para a venda local. Ela tem interesse em práticas agrícolas sustentáveis e está sempre em busca de maneiras de melhorar a produtividade de sua terra de forma ambientalmente responsável. Joana também se preocupa com a segurança alimentar de sua família e comunidade, e gostaria de ter acesso a informações sobre nutrição e dietas saudáveis. Casada e tem 3 filhos.
+
+Desafios: Joana enfrenta desafios como a falta de acesso a informações sobre práticas agrícolas sustentáveis, dificuldade em encontrar mercados para seus produtos e preocupações com a segurança alimentar de sua família devido à falta de variedade de alimentos disponíveis.
+
+Objetivos: Joana gostaria de encontrar um software que pudesse ajudá-la a melhorar a produtividade de sua terra de forma sustentável, conectá-la a mercados locais para vender seus produtos e fornecer informações sobre nutrição e dietas saudáveis para sua família e comunidade.
+
+Como o projeto pode ajudar: O projeto pode desenvolver um aplicativo que forneça a Joana informações sobre práticas agrícolas sustentáveis, conecte-a a compradores locais interessados em produtos agrícolas sustentáveis e ofereça informações sobre nutrição e dietas saudáveis baseadas em alimentos disponíveis localmente.
 
 > Relacione as personas identificadas no seu projeto. Lembre-se que 
 > você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
@@ -112,6 +149,9 @@
 
 ## Histórias de Usuários
 
+// a definir baseada nas escolhas das personas que seram usadas
+
+
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
@@ -129,6 +169,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
+
+// a definir baseada nos objetivos/funcionalidades do software
 
 A tabela que segue apresenta os requisitos funcionais do projeto. 
 
@@ -149,7 +191,9 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+// a definir baseado nas tecnologias e frameworkes que seram utilizados
+
+
 > Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
 
 ## Wireframes
@@ -174,7 +218,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Mapa de navegação
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
+// a definir baseado nos detalhes de especificação e telas
 
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
 > um usuário deve realizar para utilizar todas as características do seu sistema. 
@@ -185,7 +229,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Conclusões
 
-......  COLOQUE AQUI O SEU TEXTO ......
+// a definir baseado no contexto inserido no problema e nos objetivos e na duração do projeto e sua conclusão
 
 > Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
 > o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
