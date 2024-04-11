@@ -52,6 +52,8 @@ Tecnologia em Análise e Desenvolv. de Sistemas - Unid. Educ. São Gabriel - PSG
 
 ## Objetivos
 
+Contribuir para o desenvolvimento e implementação de práticas agrícolas sustentáveis, que promovam a produção de alimentos saudáveis, a segurança alimentar e a nutrição adequada, visando a erradicação da fome e o alcance da segurança alimentar local.
+
 Desenvolver um plataforma que permita rastrear a produção, distribuição e consumo de alimentos, facilitando a doação de alimentos excedentes para instituições de caridade e comunidades carentes.
 
 Criar uma plataforma online que conecte agricultores locais a consumidores, promovendo a compra de alimentos frescos e locais, apoiando assim a agricultura sustentável e fortalecendo as comunidades locais.
