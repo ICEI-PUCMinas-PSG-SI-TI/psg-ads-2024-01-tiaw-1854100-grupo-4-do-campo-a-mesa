@@ -38,9 +38,8 @@ Tecnologia em Análise e Desenvolv. de Sistemas - Unid. Educ. São Gabriel - PSG
 
 ## Problema
 
-// problema  a ser discutido
-
- A fome, insegurança alimentar, a má nutrição e a agricultura não sustentável são desafios globais. Milhões de pessoas enfrentam dificuldades para acessar alimentos adequados e nutritivos. A segurança alimentar não é apenas ua questão de disponibilidade, mas também de acesso fisíco, econômico e social a alimentos saudáveis em quantidade suficiente. A nutrição inadequada afeta muitos, com a desnutrição, a obesidade e as deficiências de nutrientes sendo problemas comuns. A agricultura desempenha um papel crucial na segurança alimentar, mas práticas não sustentáveis podem causar danos ambientais.
+ A fome, insegurança alimentar, a má nutrição e a agricultura não sustentável são desafios globais. Milhões de pessoas enfrentam dificuldades para acessar alimentos adequados e nutritivos. A segurança alimentar não é apenas uma questão de disponibilidade, mas também de acesso fisíco, econômico e social a alimentos saudáveis em quantidade suficiente. A nutrição inadequada afeta muitos, com a desnutrição, a obesidade e as deficiências de nutrientes sendo problemas comuns. A agricultura desempenha um papel crucial na segurança alimentar, mas práticas não sustentáveis podem causar danos ambientais.
+ 
  Em resumo, os desafios relacionados à fome, segurança alimentar, nutrição e agricultura sustentável são complexos e interconectados, exigindo abordagens integradas e multissetoriais para enfrentá-los de forma eficaz.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
