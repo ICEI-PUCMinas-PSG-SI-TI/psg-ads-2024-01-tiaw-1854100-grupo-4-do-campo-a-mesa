@@ -62,7 +62,9 @@ Criar sistemas que monitorem o uso de recursos naturais na agricultura, como ág
 
 Desenvolver uma plataforma onde agricultores, pesquisadores e especialistas possam colaborar e compartilhar soluções inovadoras para os desafios enfrentados na agricultura sustentável.
 
-Desenvolver uma plataforma que ajudem as pessoas a planejar refeições saudáveis ​​e econômicas, utilizando ingredientes disponíveis localmente e de baixo custo.
+Desenvolver uma plataforma que ajudem as pessoas a planejar refeições saudáveis ​​e econômicas, utilizando ingredientes disponíveis localmente em Belo Horizonte e de baixo custo.
+
+
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
