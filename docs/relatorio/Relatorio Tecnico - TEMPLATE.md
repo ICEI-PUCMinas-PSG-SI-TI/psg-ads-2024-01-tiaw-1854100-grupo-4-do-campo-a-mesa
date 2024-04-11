@@ -52,8 +52,6 @@ Tecnologia em Análise e Desenvolv. de Sistemas - Unid. Educ. São Gabriel - PSG
 
 ## Objetivos
 
-//objetivos a serem discutidos
-
 Desenvolver um plataforma que permita rastrear a produção, distribuição e consumo de alimentos, facilitando a doação de alimentos excedentes para instituições de caridade e comunidades carentes.
 
 Criar uma plataforma online que conecte agricultores locais a consumidores, promovendo a compra de alimentos frescos e locais, apoiando assim a agricultura sustentável e fortalecendo as comunidades locais.
@@ -76,8 +74,6 @@ Desenvolver uma plataforma que ajudem as pessoas a planejar refeições saudáve
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Público-Alvo
-
-// a definir
 
 Agricultores, estudantes e professores em agricultura e nutrição, ongs e intituições de caridade e consumidores.
 
@@ -174,8 +170,7 @@ Como o projeto pode ajudar: O projeto pode desenvolver um aplicativo que forneç
 
 ## Histórias de Usuários
 
-// a definir baseada nas escolhas das personas que seram usadas
-
+// a definir baseada nas personas
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
