@@ -1,6 +1,6 @@
 # Do campo à mesa
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
-//Este trabalho visa abordar os desafios relacionados à fome, segurança alimentar, nutrição e agricultura sustentável, com o objetivo de propor soluções viáveis e sustentáveis em linha com os Objetivos de Desenvolvimento Sustentável da ONU.
+
+Este trabalho visa abordar os desafios relacionados à fome, segurança alimentar, nutrição e agricultura sustentável, com o objetivo de propor soluções viáveis e sustentáveis em linha com os Objetivos de Desenvolvimento Sustentável da ONU.
 
 ## Alunos integrantes da equipe
 
