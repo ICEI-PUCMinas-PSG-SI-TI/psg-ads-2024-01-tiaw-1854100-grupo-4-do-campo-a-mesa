@@ -112,83 +112,123 @@ etc.
 > realizar a especificações do projeto
 
 ## Personas
-Nome: Miguel Santos
 
-Idade: 26
+**Nome**: Carlos Eduardo Alves
 
-Hobby: nascido e criado no campo antes de se mudar para a cidade, Miguel sempre gostou de ajudar o seus pais em sua terra, auxiliando em atividades diversas, porém a que mais sentia (e ainda sente) prazer ,é no plantio e cultivo da horta.
+![carlos eduardo](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/blob/305eec09b62438d2702dbb0f5b8e3f3406affe46/docs/relatorio/images/Persona%20Gabriel.jpg)
 
-Trabalho: Estágio em agronomia 
+**Idade**: 42 anos
 
-Personalidade: Um jovem sagaz, esforçado , ambicioso e comprometido com tudo o que se propõe a fazer.
+**Profissão**: Engenheiro Civil
 
-Sonho: Futuramente assumir o sítio de seus pais,  expandir o quantidade de opções no plantio e comercializar em grande escala implantando as novas tecnologias do setor agroindustrial .
+**Hobby**: Carlos possui uma horta em seu apartamento, na qual ele cultiva diversos tipos de hortaliças.
 
-Objetos e lugares:
-Ferramentas: Em seu estágio ele utiliza ferramentas simples como pás e enxadas, e também ferramentas importantes como os arados, semeadores, pulverizadores, subsoladores e etc. Dos quais são usadas para preparar o solo, depositar sementes, aplicar fertilizantes, descompactar a terra e outras mais.
-Smartphones, tablets e computadores: equipamentos digitais utilizados para monitorar, armazenar dados importantes sobre os processos realizados no campo, contagem e etc. Além do uso de redes sociais para a divulgação do trabalho e dos projetos de inovação realizados naquele devido ambiente.
+**Trabalho**: Projeto e Construção de edifícios
 
-Objetivos chave:
-1: Se integrar e interagir com profissionais mais experientes do mesmo nicho para receber orientações, compartilhamento de experiências e dicas importantes que poderão acrescentar ainda mais ao seu nível de conhecimento atual, assim o tornando um profissional mais capacitado e competente.
-2: se manter atualizado com as novas tecnologias  e tendências do setor agroindustrial (principalmente no quesito sustentabilidade), afim de implementar os mesmos em seu próprio ambiente de trabalho.
+**Personalidade**: Carlos é uma pessoa determinada, dedicada e ama a natureza. Gosta eaproveita muito o tempo cuidando de sua horta, e usa esse tempo como válvula de escape para seu estresse do trabalho.
 
-Como devemos tratá-lo:
-O acolher de braços abertos para dentro da comunidade, respeitar suas opiniões e ideias, ouvi-lo, fazer com que o mesmo se sinta parte do ambiente, compartilhar suas experiências como profissional, tornar o ambiente de interação amigável e respeitar o seu tempo de aprendizagem como um iniciante da área que ele é.
+**Sonhos:** Carlos sonha em adquirir uma chácara na qual ele poderá criar uma horta maior e com uma maior variedade de hortaliças e vegetais utilizando uma agricultura sustentável e sem uso de agrotóxicos, e abrir um pequeno negócio para vendê-las como produtos orgânicos.
 
+**Objetos e Lugares:**
+
+**1- Ferramentas:** Carlos faz o uso de tesouras, pás e regadores para realizar as tarefas diáriasem sua horta.
+
+**2-Smartphone:** Carlos utiliza seu smartphone para pesquisar sobre técnicas de cultivo parasuas hortaliças, para que o crescimento das mesmas seja saudável, além de comprar materiaisonline como fertilizantes, e sementes para cultivo e futura expansão de sua horta.
+
+**3- Plataformas online e redes sociais:** Carlos utiliza redes sociais e fóruns online, para se conectar com agricultores experientes para aprender novas técnicas de cultivo, além de ficar por dentro dos últimos lançamentos da agricultura, na questão de ferramentas e tecnologia. Ele as utiliza enquanto cuida de sua horta, a noite após o trabalho e durante as manhãs antes de sair. Além disso, ele aproveita para interagir com amigos e agricultores maiores, que praticam a agricultura sustentável.
+
+**Objetivos chave:**
+
+**1-** Promover a adoção de práticas da agricultura sustentável para a comunidade na qual ele faz parte, amigos e família incluindo a rotação de culturas e a inclusão de técnicas de cultivo orgânicas.
+
+**2-** Se aproximar de agricultores maiores e com maior experiência, com o objetivo de expandir seu círculo social, e adquirir novos conhecimentos, para o crescimento e aprimoramento de seu hobby.
+
+**3-** Incentivar seus amigos e família a também adquirirem esse hobby, mostrando suas vantagens e recompensas.
+
+**Como devemos tratá lo:**
+
+Tratar de forma que ele se sinta incluído na comunidade, valorize seu hobby, mostre interesse, ofereça apoio emocional e respeite suas opiniões e conhecimentos, e se você possuir alguma experiência na área, se possível compartilhe-o com ele. Ao adotar essas abordagens e comportamentos, você ajudará Carlos a se sentir incluído e confortável, além de incentivá-lo a realizar seu sonho de adquirir uma chácara e iniciar seu pequeno negócio.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+**Nome:** Ana Silva
 
 ![Joana tiaw](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/assets/160651971/fddbafac-3717-4e6e-8389-c6e7eb814fa3)
 
-Nome: Joana
+**Idade:** 35 anos
 
-Idade: 32 anos
+**Profissão:** Agricultora e defensora da agricultura sustentável
 
-Profissão: Agricultora familiar
+**Hobby:** Além de seu trabalho na agricultura sustentável, Ana tem um hobby que complementa sua paixão pela natureza: a fotografia. 
 
-Descrição: Joana vive em uma comunidade rural onde trabalha em sua pequena propriedade agrícola, cultivando principalmente alimentos básicos para sua família e para a venda local. Ela tem interesse em práticas agrícolas sustentáveis e está sempre em busca de maneiras de melhorar a produtividade de sua terra de forma ambientalmente responsável. Joana também se preocupa com a segurança alimentar de sua família e comunidade, e gostaria de ter acesso a informações sobre nutrição e dietas saudáveis. Casada e tem 3 filhos.
+**Trabalaho:** Agricultora
 
-Desafios: Joana enfrenta desafios como a falta de acesso a informações sobre práticas agrícolas sustentáveis, dificuldade em encontrar mercados para seus produtos e preocupações com a segurança alimentar de sua família devido à falta de variedade de alimentos disponíveis.
+**Personalidade:** é uma pessoa resiliente, determinada e apaixonada. Sua determinação em promover a agricultura sustentável é evidente em sua abordagem incansável para implementar práticas agrícolas mais ecológicas em sua fazenda e comunidade.
 
-Objetivos: Joana gostaria de encontrar um software que pudesse ajudá-la a melhorar a produtividade de sua terra de forma sustentável, conectá-la a mercados locais para vender seus produtos e fornecer informações sobre nutrição e dietas saudáveis para sua família e comunidade.
+**Sonhos:** Ela sonha com um futuro onde a agricultura sustentável seja a norma, não a exceção. Ela visualiza uma comunidade onde as práticas agrícolas respeitem e regenerem o meio ambiente, garantindo a saúde do solo, da água e da biodiversidade.
 
-Como o projeto pode ajudar: O projeto pode desenvolver um aplicativo que forneça a Joana informações sobre práticas agrícolas sustentáveis, conecte-a a compradores locais interessados em produtos agrícolas sustentáveis e ofereça informações sobre nutrição e dietas saudáveis baseadas em alimentos disponíveis localmente.
+**Objetos e Lugares:**
 
+**1- Ferramentas agrícolas:** Ana usa ferramentas como enxadas, foices, pás e regadores para realizar tarefas diárias na sua fazenda, desde o plantio até a colheita.
 
+**2- Equipamentos de proteção:** Para garantir sua segurança enquanto trabalha na fazenda, Ana utiliza equipamentos de proteção individual, como luvas, botas e óculos de proteção.
+
+**3- Computador e smartphone:** Ana utiliza um computador e um smartphone para se comunicar com outros agricultores, organizar eventos, pesquisar novas técnicas agrícolas sustentáveis e compartilhar informações sobre agricultura orgânica em suas redes sociais.
+
+**4- Aplicativos e softwares:** Ela faz uso de aplicativos e softwares relacionados à agricultura, como aplicativos de previsão do tempo, gerenciamento de culturas e monitoramento de pragas, para otimizar suas práticas agrícolas e tomar decisões informadas.
+
+**5- Redes sociais e plataformas online:** Ana utiliza plataformas de mídia social e fóruns online para se conectar com outros agricultores, compartilhar suas experiências, disseminar informações sobre agricultura sustentável e promover eventos e workshops em sua comunidade.
+
+Ela os utiliza na fazenda enquanto trabalha no campo, durante reuniões com outros agricultores e em eventos comunitários. Além disso, ela aproveita a conveniência dos dispositivos digitais para continuar seu trabalho de advocacia e educação, mesmo quando está fora da fazenda, permitindo-lhe alcançar um público mais amplo e promover a conscientização sobre a importância da agricultura sustentável.
+
+**Objetivos chave :**
+
+**1-** Promover a adoção de práticas agrícolas sustentáveis em sua comunidade e região, incluindo técnicas de cultivo orgânico, rotação de culturas e manejo integrado de pragas.
+
+**2-** Estabelecer parcerias com outros agricultores, autoridades locais e organizações não governamentais para fortalecer o apoio e a infraestrutura necessários para a agricultura sustentável.Capacitar outros agricultores por meio de workshops, palestras e programas educacionais, compartilhando conhecimentos e melhores práticas relacionadas à agricultura sustentável.
+
+**3-** Defender políticas agrícolas que incentivem e apoiem a transição para modelos de produção mais sustentáveis, incluindo incentivos fiscais e subsídios para práticas ambientalmente amigáveis.
+
+**4-** Sensibilizar o público em geral sobre os benefícios da agricultura sustentável para a saúde humana, o meio ambiente e a economia local, destacando os impactos positivos dessas práticas.
+
+**5-** Continuar aprendendo e se atualizando sobre novas tecnologias, pesquisas e inovações no campo da agricultura sustentável, buscando constantemente formas de melhorar e aprimorar suas próprias práticas.
+
+**Como devemos trata-la:**
+
+Tratar de forma quer econheça e valorize seu trabalho, mostre interesse em suas iniciativas, ofereça apoio emocional, colabore em projetos e iniciativas e respeite suas opiniões e conhecimentos. Ao adotar essas abordagens e comportamentos, você ajudará Ana a sentir-se valorizada, apoiada e incentivada em sua missão de promover a agricultura sustentável e criar um futuro mais sustentável para todos.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+**Nome:** Miguel Santos
 
 ![agricultor](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/assets/165809923/2da28aee-8de3-456f-881f-6c9e625bb7b1)
 
 
+**Idade:** 26
 
-Nome: Lucas Fernandes Pereira Neto
+**Hobby:** nascido e criado no campo antes de se mudar para a cidade, Miguel sempre gostou de ajudar o seus pais em sua terra, auxiliando em atividades diversas, porém a que mais sentia (e ainda sente) prazer ,é no plantio e cultivo da horta.
 
-Idade: 26 anos
+**Trabalho:** Estágio em agronomia 
 
-Hobby: Além de trabalhar na agricultura, Lucas gosta de assistir vários documentários, filmes, relacionados ou não com a agricultura e ele gosta de estudar  sobre o conteúdo agrícola(pesquisas,informativos,etc).
+**Personalidade:** Um jovem sagaz, esforçado , ambicioso e comprometido com tudo o que se propõe a fazer.
 
-Trabalho: Agricultor
+**Sonho:** Futuramente assumir o sítio de seus pais,  expandir o quantidade de opções no plantio e comercializar em grande escala implantando as novas tecnologias do setor agroindustrial .
 
-Personalidade: Lucas é uma pessoa curiosa, sempre busca estar antenado nos assuntos do momento, além de ser uma pessoa extremamente dedicada ao seu trabalho, onde busca incansávelmente seguir o ramo de agricultura, não medindo esforços para isso.
+**Objetos e lugares:**
 
-Sonhos: Ele sonha em ser um grande agricultor, assim como foi o seu avô muitos anos atrás, já que ele ouvia muitas histórias do avô quando era novo e resolveu seguir com a mesma profissão, desejando ser um dos maiores produtores do país.
+**Ferramentas:** Em seu estágio ele utiliza ferramentas simples como pás e enxadas, e também ferramentas importantes como os arados, semeadores, pulverizadores, subsoladores e etc. Dos quais são usadas para preparar o solo, depositar sementes, aplicar fertilizantes, descompactar a terra e outras mais.
 
-Objetos e Lugares: 
-1- Ferramentas e maquinários: Lucas com sua familia possuem de várias ferramentas e um pouco de maquinários disponíveis para ajudá-los no plantio.
-2- EPI's: Lucas é um adepto ao uso de EPI's, como botas, luvas, óculos e sempre busca o trabalho seguro, com o máximo de proteção e o mínimo de acidentes.
-3- Computador e smartphone: Ele faz o uso de seu computador e smartphone para conversar com amigos agricultores, realizar suas pesquisas e comprar o que é necessário para o plantio, como adubos e fertilizantes. Além disso, Lucas busca sempre manter como princípio principal a agricultura sustentável.
-4- Aplicativos/Softwares e Redes Sociais: Ele utiliza muito aplicativos relacionados à agricultura, como previsão do tempo, fóruns virtuais, e programas para ajudá-lo no controle dos agrotóxicos e o uso certo de fertilizantes. Além disso, Lucas utiliza muito as redes sociais como Instagram, por onde ele busca aumentar o seu reconhecimento e Reddit, onde participa de canais sobre agricultura.
-Ele utiliza esses objetos em sua fazenda/casa, durante o seu dia a dia como agricultor. Com tais objetos, ele pode aprofundar o seu conhecimento no assunto e aumentar o seu reconhecimento como um agricultor.
+**Smartphones, tablets e computadores:** equipamentos digitais utilizados para monitorar, armazenar dados importantes sobre os processos realizados no campo, contagem e etc. Além do uso de redes sociais para a divulgação do trabalho e dos projetos de inovação realizados naquele devido ambiente.
 
-Objetivos chave : 
-1- Promover a prática da agricultura sustentável, influenciando de uma boa maneira, as pessoas ao seu redor.
-2- Motivar as pessoas que desejam trabalhar com a agricultura por meio do seu trabalho no Instagram. 
-3- Aprofundar cada vez mais o seu conhecimento sobre o assunto, tal como o uso certo de agrotóxicos, fertilizantes, como fazer um melhor plantio e cada vez mais sustentável.
-4- Se tornar um grande agricultor, com parceria com empresas e além disso, se tornar um exemplo para quem deseja começar nesse ramo.
-Esse serviço o ajudaria a entrar em contato com mais agricultores através do fórum, o serviço trará dicas para ter um plantio sustentável e com um alto rendimento, e com isso, o ajudaria a ganhar a influência desejada no ramo.
+**Objetivos chave:**
 
-Como devemos tratá-lo:
-Devemos tratá-lo de forma que ele se sinta confortável, onde o seu trabalho é valorizado e o ambiente seja um ambiente tranquilo. Lucas é uma pessoa  tranquila de se lidar. Adotando isso, Lucas se sentirá incluso no projeto, se sentirá apoiado e isso servirá de incentivo para ele realizar seu sonho de ser um grande agicultor.
+**1:** Se integrar e interagir com profissionais mais experientes do mesmo nicho para receber orientações, compartilhamento de experiências e dicas importantes que poderão acrescentar ainda mais ao seu nível de conhecimento atual, assim o tornando um profissional mais capacitado e competente.
 
-Nunca devemos:
-Nunca devemos fazer com o Lucas coisas sem ter comentado com ele. Ele é uma pessoa que se irrita raramente, mas se mantermos as coisas em ordem e esclarecidas, o nosso trabalho em conjunto será bem mais fácil. Lucas é uma pessoa que não aceita mentiras, ele prefere que todos sejam sinceros com ele.
+**2:** se manter atualizado com as novas tecnologias  e tendências do setor agroindustrial (principalmente no quesito sustentabilidade), afim de implementar os mesmos em seu próprio ambiente de trabalho.
+
+**Como devemos tratá-lo:**
+
+O acolher de braços abertos para dentro da comunidade, respeitar suas opiniões e ideias, ouvi-lo, fazer com que o mesmo se sinta parte do ambiente, compartilhar suas experiências como profissional, tornar o ambiente de interação amigável e respeitar o seu tempo de aprendizagem como um iniciante da área que ele é.
+
 
 
 
