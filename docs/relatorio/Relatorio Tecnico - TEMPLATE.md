@@ -303,7 +303,18 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
-// a definir baseado nas tecnologias e frameworkes que seram utilizados
+Linguagem de programação: C#
+Front-end:
+HTML
+CSS
+Ferramentas de design:
+Figma
+Miro
+IDE (Ambiente de Desenvolvimento Integrado):
+Visual Studio 
+Visual Studio Code
+Frameworks e Bibliotecas:
+Bootstrap
 
 
 > Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
