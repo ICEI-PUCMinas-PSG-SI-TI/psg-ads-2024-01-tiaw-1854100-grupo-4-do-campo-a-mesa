@@ -200,8 +200,7 @@ ________________________________________________________________________________
 
 **Nome:** Miguel Santos
 
-![agricultor](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/assets/165809923/2da28aee-8de3-456f-881f-6c9e625bb7b1)
-
+![agricultor](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/blob/28fd1469c8644b19aa01e1fb7c9b323bd2834b56/docs/relatorio/images/Persona%20Felipe.jpg)
 
 **Idade:** 26
 
