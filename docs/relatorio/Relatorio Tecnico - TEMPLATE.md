@@ -258,13 +258,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Diretor             | De uma pagina para noticias           | Conseguir ver as noticias diarias sobre ocontexto do nossso site      |
+|Diretor             | De uma pagina para notícias           | Conseguir ver as notícias diárias sobre o contexto do nossso site      |
 |Diretor             | De uma loja                           | Vender e comprar produtos relacionados ao nosso nicho |
-|Diretor             | De uma pagina para voltada nutrição   | Uma dieta com produtos orgânicos       |
-|Diretor             | De uma pagina para apoiar o site      | Contribuir com o nosso site            |
-|Diretor             | De um forum                           | Trocar informçoes e ajuda os menos experientes|
-|Diretor             | De uma pagina de login e cadastro     | Ter um controle de acesso e uma boa comunicação no forúm|
-|Diretor             | De uma pagina para recomendações de maquinarios e ferramentas| Que os usuarios do site possam comprar bons produtos|
+|Diretor             | De uma página para voltada nutrição   | Uma dieta com produtos orgânicos       |
+|Diretor             | De uma página para apoiar o site      | Contribuir com o nosso site            |
+|Diretor             | De um forám                           | Trocar informções e ajuda os menos experientes|
+|Diretor             | De uma página de login e cadastro     | Ter um controle de acesso e uma boa comunicação no forúm|
+|Diretor             | De uma página para recomendações de máquinas e ferramentas| Que os usuários do site possam comprar bons produtos|
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
