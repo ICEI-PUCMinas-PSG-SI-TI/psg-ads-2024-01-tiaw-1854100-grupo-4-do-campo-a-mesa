@@ -263,12 +263,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Entusiasta           | De uma pagina para notícias           | Conseguir ver as notícias diárias sobre o contexto do nossso site      |
-|Algricultor mais experiente      | De uma loja                           | Vender e comprar produtos relacionados ao roma da agricultura sustentavel|
-|Algricultor iniciante         | De um forúm                           | Trocar dicas e sanar dúvidas|
-|Administrador           | De uma página de login e cadastro     | Ter controle de acesso, segurança, gerenciamento de conta e uma boa comunicação no site|
-|Algricultor iniciante             | De uma página para recomendações de máquinas e ferramentas| Que os usuários do site possam comprar bons produtos|
-|Entusiasta | De uma pagina para apoiar projetos | Que possa contribuir financeiramento e com informações relacionadas a agricultura sustentavel|
+|Entusiasta                  | De uma pagina para notícias                                | Conseguir ver as notícias diárias sobre o contexto do nossso site |
+|Algricultor mais experiente | De uma loja                                                | Vender e comprar produtos relacionados ao roma da agricultura sustentavel |
+|Algricultor iniciante       | De um forúm                                                | Trocar dicas e sanar dúvidas |
+|Administrador               | De uma página de login e cadastro                          | Ter controle de acesso, segurança, gerenciamento de conta e uma boa comunicação no site |
+|Algricultor iniciante       | De uma página para recomendações de máquinas e ferramentas | Que os usuários do site possam comprar bons produtos |
+|Entusiasta                  | De uma pagina para apoiar projetos                         | Que possa contribuir financeiramento e com informações relacionadas a agricultura sustentavel |
 
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
@@ -288,9 +288,22 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Sistema de loja intuitivo e eficiente | ALTA | 
+|RF-002| Implementar um catálogo para Exibição de Produtos | ALTA |
+|RF-003| Cadastro de usuários intuitivo e ágil | MÉDIA |
+|RF-004| Fornecer atualizações nas páginas de informação | MÉDIA |
+|RF-005| Implementar forúm intuitivo | MÉDIA |
+|RF-006| Sistema de doação confiável | ALTA |
+|RF-007| Auxiliar entusiastas e pequenos agricultores à se desenvolverem | ALTA |
 
+### Requisitos Não Funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RNF-001| Segurança: Garantir a proteção e privacidade das informações dos usuários | ALTA | 
+|RNF-002| Usabilidade: Interface intuitiva e amigável para usuários | ALTA | 
+|RNF-003| Desempenho: O sistema deve ser responsivo e capaz de lidar | ALTA | 
+|RNF-003| |RNF-003| Desempenho: O sistema deve ser responsivo e capaz de lidar | ALTA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
