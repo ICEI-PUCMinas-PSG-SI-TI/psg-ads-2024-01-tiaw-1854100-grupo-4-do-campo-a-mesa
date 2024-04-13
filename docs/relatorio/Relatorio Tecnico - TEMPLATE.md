@@ -282,8 +282,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
-// a definir baseada nos objetivos/funcionalidades do software
-
 A tabela que segue apresenta os requisitos funcionais do projeto. 
 
 ### Requisitos Funcionais
