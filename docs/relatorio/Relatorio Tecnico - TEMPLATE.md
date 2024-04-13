@@ -153,6 +153,31 @@ Objetivos: Joana gostaria de encontrar um software que pudesse ajudá-la a melho
 Como o projeto pode ajudar: O projeto pode desenvolver um aplicativo que forneça a Joana informações sobre práticas agrícolas sustentáveis, conecte-a a compradores locais interessados em produtos agrícolas sustentáveis e ofereça informações sobre nutrição e dietas saudáveis baseadas em alimentos disponíveis localmente.
 
 
+Nome: Lucas Fernandes Pereira Neto
+Idade: 26 anos
+Hobby: Além de trabalhar na agricultura, Lucas gosta de assistir vários documentários, filmes, relacionados ou não com a agricultura e ele gosta de estudar  sobre o conteúdo agrícola(pesquisas,informativos,etc).
+Trabalho: Agricultor
+Personalidade: Lucas é uma pessoa curiosa, sempre busca estar antenado nos assuntos do momento, além de ser uma pessoa extremamente dedicada ao seu trabalho, onde busca incansávelmente seguir o ramo de agricultura, não medindo esforços para isso.
+Sonhos: Ele sonha em ser um grande agricultor, assim como foi o seu avô muitos anos atrás, já que ele ouvia muitas histórias do avô quando era novo e resolveu seguir com a mesma profissão, desejando ser um dos maiores produtores do país.
+Objetos e Lugares: 
+1- Ferramentas e maquinários: Lucas com sua familia possuem de várias ferramentas e um pouco de maquinários disponíveis para ajudá-los no plantio.
+2- EPI's: Lucas é um adepto ao uso de EPI's, como botas, luvas, óculos e sempre busca o trabalho seguro, com o máximo de proteção e o mínimo de acidentes.
+3- Computador e smartphone: Ele faz o uso de seu computador e smartphone para conversar com amigos agricultores, realizar suas pesquisas e comprar o que é necessário para o plantio, como adubos e fertilizantes. Além disso, Lucas busca sempre manter como princípio principal a agricultura sustentável.
+4- Aplicativos/Softwares e Redes Sociais: Ele utiliza muito aplicativos relacionados à agricultura, como previsão do tempo, fóruns virtuais, e programas para ajudá-lo no controle dos agrotóxicos e o uso certo de fertilizantes. Além disso, Lucas utiliza muito as redes sociais como Instagram, por onde ele busca aumentar o seu reconhecimento e Reddit, onde participa de canais sobre agricultura.
+Ele utiliza esses objetos em sua fazenda/casa, durante o seu dia a dia como agricultor. Com tais objetos, ele pode aprofundar o seu conhecimento no assunto e aumentar o seu reconhecimento como um agricultor.
+Objetivos chave : 
+1- Promover a prática da agricultura sustentável, influenciando de uma boa maneira, as pessoas ao seu redor.
+2- Motivar as pessoas que desejam trabalhar com a agricultura por meio do seu trabalho no Instagram. 
+3- Aprofundar cada vez mais o seu conhecimento sobre o assunto, tal como o uso certo de agrotóxicos, fertilizantes, como fazer um melhor plantio e cada vez mais sustentável.
+4- Se tornar um grande agricultor, com parceria com empresas e além disso, se tornar um exemplo para quem deseja começar nesse ramo.
+Esse serviço o ajudaria a entrar em contato com mais agricultores através do fórum, o serviço trará dicas para ter um plantio sustentável e com um alto rendimento, e com isso, o ajudaria a ganhar a influência desejada no ramo.
+Como devemos tratá-lo:
+Devemos tratá-lo de forma que ele se sinta confortável, onde o seu trabalho é valorizado e o ambiente seja um ambiente tranquilo. Lucas é uma pessoa  tranquila de se lidar. Adotando isso, Lucas se sentirá incluso no projeto, se sentirá apoiado e isso servirá de incentivo para ele realizar seu sonho de ser um grande agicultor.
+Nunca devemos:
+Nunca devemos fazer com o Lucas coisas sem ter comentado com ele. Ele é uma pessoa que se irrita raramente, mas se mantermos as coisas em ordem e esclarecidas, o nosso trabalho em conjunto será bem mais fácil. Lucas é uma pessoa que não aceita mentiras, ele prefere que todos sejam sinceros com ele.
+
+
+
 
 
 > Relacione as personas identificadas no seu projeto. Lembre-se que 
