@@ -265,9 +265,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Entusiasta           | De uma pagina para notícias           | Conseguir ver as notícias diárias sobre o contexto do nossso site      |
 |Algricultor mais experiente      | De uma loja                           | Vender e comprar produtos relacionados ao roma da agricultura sustentavel|
-|Algricultor INICIANTE          | De um forúm                           | Trocar dicas e sanar dúvidas|
+|Algricultor iniciante         | De um forúm                           | Trocar dicas e sanar dúvidas|
 |Administrador           | De uma página de login e cadastro     | Ter controle de acesso, segurança, gerenciamento de conta e uma boa comunicação no site|
-|Algricultor menos experiente             | De uma página para recomendações de máquinas e ferramentas| Que os usuários do site possam comprar bons produtos|
+|Algricultor iniciante             | De uma página para recomendações de máquinas e ferramentas| Que os usuários do site possam comprar bons produtos|
 |Entusiasta | De uma pagina para apoiar projetos | Que possa contribuir financeiramento e com informações relacionadas a agricultura sustentavel|
 
 
