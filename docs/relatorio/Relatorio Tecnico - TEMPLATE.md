@@ -259,8 +259,6 @@ O acolher de braços abertos para dentro da comunidade, respeitar suas opiniões
 
 ## Histórias de Usuários
 
-// a definir baseada nas personas
-
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
@@ -310,7 +308,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+(https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41-478&mode=design&t=xSkbNHuNbQcg8009-0)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -330,7 +328,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Mapa de navegação
 
-// a definir baseado nos detalhes de especificação e telas
+(https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41-478&mode=design&t=xSkbNHuNbQcg8009-0)
 
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
 > um usuário deve realizar para utilizar todas as características do seu sistema. 
