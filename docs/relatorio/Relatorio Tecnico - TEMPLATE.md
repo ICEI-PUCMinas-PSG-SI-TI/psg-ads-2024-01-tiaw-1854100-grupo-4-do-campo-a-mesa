@@ -283,9 +283,9 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|----|
 |RF-001| Sistema de loja intuitivo e eficiente | ALTA | 
 |RF-002| Implementar um catálogo para Exibição de Produtos | ALTA |
-|RF-003| Cadastro de usuários intuitivo e ágil | MÉDIA |
+|RF-003| Cadastro de usuários claro e ágil | MÉDIA |
 |RF-004| Fornecer atualizações nas páginas de informação | MÉDIA |
-|RF-005| Implementar forúm intuitivo | MÉDIA |
+|RF-005| Implementar o forúm de maneira simples de usar | MÉDIA |
 |RF-006| Sistema de doação confiável | ALTA |
 |RF-007| Auxiliar entusiastas e pequenos agricultores à se desenvolverem | ALTA |
 
