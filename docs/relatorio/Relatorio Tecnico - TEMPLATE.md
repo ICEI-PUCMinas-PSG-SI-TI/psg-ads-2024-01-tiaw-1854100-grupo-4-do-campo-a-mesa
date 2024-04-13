@@ -355,7 +355,7 @@ Frameworks e Bibliotecas: Bootstrap
 
 # Conclusões
 
-// a definir baseado no contexto inserido no problema e nos objetivos e na duração do projeto e sua conclusão
+Para concluir, o projeto tem como objetivo desenvolver um programa que auxilie na busca da fome zero e de uma agricultura mais sustentável, utilizando tecnologias como HTML, CSS, Figma e Miro para auxiliar no design e na interface do programa. Uma das principais dificuldades encontradas foi a necessidade de lidar com possíveis mudanças no design e no escopo do projeto, o que foi contornado com uma abordagem flexível e o uso de ferramentas de design e metodologias ágeis. Para trabalhos futuros, pretende-se explorar a integração com serviços web para enriquecer a funcionalidade do programa, além de melhorar a interface do usuário com um design mais atraente e implementar recursos adicionais.
 
 > Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
 > o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
