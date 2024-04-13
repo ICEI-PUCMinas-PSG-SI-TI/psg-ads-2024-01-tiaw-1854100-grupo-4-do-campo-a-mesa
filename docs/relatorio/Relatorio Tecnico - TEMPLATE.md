@@ -113,6 +113,8 @@ etc.
 
 ## Personas
 
+**AGRICULTOR ENTUSIASTA**
+
 **Nome**: Carlos Eduardo Alves
 
 ![carlos eduardo](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/blob/305eec09b62438d2702dbb0f5b8e3f3406affe46/docs/relatorio/images/Persona%20Gabriel.jpg)
@@ -150,6 +152,9 @@ etc.
 Tratar de forma que ele se sinta incluído na comunidade, valorize seu hobby, mostre interesse, ofereça apoio emocional e respeite suas opiniões e conhecimentos, e se você possuir alguma experiência na área, se possível compartilhe-o com ele. Ao adotar essas abordagens e comportamentos, você ajudará Carlos a se sentir incluído e confortável, além de incentivá-lo a realizar seu sonho de adquirir uma chácara e iniciar seu pequeno negócio.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+**AGRICULTOR MAIS EXPERIENTE**
+
 **Nome:** Ana Silva
 
 ![Joana tiaw](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/assets/160651971/fddbafac-3717-4e6e-8389-c6e7eb814fa3)
@@ -197,6 +202,8 @@ Ela os utiliza na fazenda enquanto trabalha no campo, durante reuniões com outr
 Tratar de forma quer econheça e valorize seu trabalho, mostre interesse em suas iniciativas, ofereça apoio emocional, colabore em projetos e iniciativas e respeite suas opiniões e conhecimentos. Ao adotar essas abordagens e comportamentos, você ajudará Ana a sentir-se valorizada, apoiada e incentivada em sua missão de promover a agricultura sustentável e criar um futuro mais sustentável para todos.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+**AGRICULTOR MENOS EXPERIENTE**
 
 **Nome:** Miguel Santos
 
