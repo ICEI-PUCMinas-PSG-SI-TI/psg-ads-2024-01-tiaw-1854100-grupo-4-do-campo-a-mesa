@@ -258,13 +258,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Diretor             | De uma pagina para notícias           | Conseguir ver as notícias diárias sobre o contexto do nossso site      |
-|Diretor             | De uma loja                           | Vender e comprar produtos relacionados ao nosso nicho |
-|Diretor             | De uma página para voltada nutrição   | Uma dieta com produtos orgânicos       |
-|Diretor             | De uma página para apoiar o site      | Contribuir com o nosso site            |
-|Diretor             | De um forám                           | Trocar informções e ajuda os menos experientes|
-|Diretor             | De uma página de login e cadastro     | Ter um controle de acesso e uma boa comunicação no forúm|
-|Diretor             | De uma página para recomendações de máquinas e ferramentas| Que os usuários do site possam comprar bons produtos|
+|Algricultor entusiasta           | De uma pagina para notícias           | Conseguir ver as notícias diárias sobre o contexto do nossso site      |
+|Algricultor mais experiente      | De uma loja                           | Vender e comprar produtos relacionados ao roma da agricultura sustentavel|
+|Algricultor menos experiente           | De um forúm                           | Trocar dicas e sanar dúvidas|
+|Administrador           | De uma página de login e cadastro     | Ter um controle de acesso e uma boa comunicação no forúm|
+|Algricultor menos experiente             | De uma página para recomendações de máquinas e ferramentas| Que os usuários do site possam comprar bons produtos|
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
