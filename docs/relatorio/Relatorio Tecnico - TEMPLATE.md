@@ -348,7 +348,7 @@ Frameworks e Bibliotecas: Bootstrap
 
 ## Mapa de navegação
 
-(https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41-478&mode=design&t=xSkbNHuNbQcg8009-0)
+(https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41%3A512&mode=design&t=zOxPmGv5EzIBndCs-1)
 
 > Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
 > um usuário deve realizar para utilizar todas as características do seu sistema. 
