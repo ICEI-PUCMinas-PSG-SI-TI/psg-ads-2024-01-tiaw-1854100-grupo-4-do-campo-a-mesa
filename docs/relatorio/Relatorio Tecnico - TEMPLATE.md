@@ -154,6 +154,7 @@ Como o projeto pode ajudar: O projeto pode desenvolver um aplicativo que forneç
 
 
 
+![agricultor](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/assets/165809923/2da28aee-8de3-456f-881f-6c9e625bb7b1)
 
 
 
