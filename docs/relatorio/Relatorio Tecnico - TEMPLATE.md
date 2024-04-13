@@ -153,6 +153,10 @@ Objetivos: Joana gostaria de encontrar um software que pudesse ajudá-la a melho
 Como o projeto pode ajudar: O projeto pode desenvolver um aplicativo que forneça a Joana informações sobre práticas agrícolas sustentáveis, conecte-a a compradores locais interessados em produtos agrícolas sustentáveis e ofereça informações sobre nutrição e dietas saudáveis baseadas em alimentos disponíveis localmente.
 
 
+
+
+
+
 Nome: Lucas Fernandes Pereira Neto
 
 Idade: 26 anos
