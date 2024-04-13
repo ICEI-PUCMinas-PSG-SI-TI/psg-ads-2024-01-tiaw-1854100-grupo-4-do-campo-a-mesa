@@ -98,14 +98,7 @@ Agricultores, estudantes e professores em agricultura e nutrição, ongs e intit
  
 # Especificações do Projeto
 
-// Discutir a plataforma do software
-
-// discutir as funcionalidades do software descritas nos objetivos
-
-// projetar a interface do usuário relacionada ao público-alvo
-
-// considerar a segurança de dados e integração com outras plataformas
-etc.
+Nesta parte do documento, será abordada a especificação do projeto, detalhando os requisitos funcionais e não funcionais. Serão utilizadas técnicas como entrevistas com stakeholders, análise de documentos relacionados ao projeto e brainstorming para identificar e documentar os requisitos. Além disso, serão utilizadas ferramentas como diagramas de casos de uso, protótipos de interface, e ferramentas de gestão de requisitos para auxiliar na especificação e no acompanhamento dos requisitos ao longo do projeto.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -303,7 +296,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RNF-001| Segurança: Garantir a proteção e privacidade das informações dos usuários | ALTA | 
 |RNF-002| Usabilidade: Interface intuitiva e amigável para usuários | ALTA | 
 |RNF-003| Desempenho: O sistema deve ser responsivo e capaz de lidar | ALTA | 
-|RNF-003| |RNF-003| Desempenho: O sistema deve ser responsivo e capaz de lidar | ALTA | 
+|RNF-004| Manutenibilidade: O sistema deve ser fácil de manter e atualizar | ALTA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
