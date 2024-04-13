@@ -113,7 +113,7 @@ etc.
 
 ## Personas
 
-**AGRICULTOR ENTUSIASTA**
+**ENTUSIASTA**
 
 **Nome**: Carlos Eduardo Alves
 
@@ -203,7 +203,7 @@ Tratar de forma quer econheça e valorize seu trabalho, mostre interesse em suas
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**AGRICULTOR MENOS EXPERIENTE**
+**AGRICULTOR INICIANTE**
 
 **Nome:** Miguel Santos
 
@@ -263,11 +263,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Algricultor entusiasta           | De uma pagina para notícias           | Conseguir ver as notícias diárias sobre o contexto do nossso site      |
+|Entusiasta           | De uma pagina para notícias           | Conseguir ver as notícias diárias sobre o contexto do nossso site      |
 |Algricultor mais experiente      | De uma loja                           | Vender e comprar produtos relacionados ao roma da agricultura sustentavel|
-|Algricultor menos experiente           | De um forúm                           | Trocar dicas e sanar dúvidas|
-|Administrador           | De uma página de login e cadastro     | Ter um controle de acesso e uma boa comunicação no forúm|
+|Algricultor INICIANTE          | De um forúm                           | Trocar dicas e sanar dúvidas|
+|Administrador           | De uma página de login e cadastro     | Ter controle de acesso, segurança, gerenciamento de conta e uma boa comunicação no site|
 |Algricultor menos experiente             | De uma página para recomendações de máquinas e ferramentas| Que os usuários do site possam comprar bons produtos|
+|Entusiasta | De uma pagina para apoiar projetos | Que possa contribuir financeiramento e com informações relacionadas a agricultura sustentavel|
+
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
