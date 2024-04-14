@@ -10,6 +10,13 @@ slide do projeto: https://www.canva.com/design/DAGCTYcE7jo/dyKSi9fywJu98QkznY3Il
 
 
 
+
+
+
+
+
+
+
 | Usuário      | Requisito | Motivação     |
 | :----:        |    :----:   |          :----: |
 | Como um cliente, eu quero      | acessar uma página<br>com informações gerais do produto       | para poder decidir se vou contratar o serviço.   |
