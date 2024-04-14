@@ -1,8 +1,8 @@
-links:
+links
 
 kanban: https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/34
 
-miro:
+miro: https://miro.com/app/board/uXjVKXzZCNo=/
 
 slide do projeto: https://www.canva.com/design/DAGCTYcE7jo/dyKSi9fywJu98QkznY3Ilw/view
 
