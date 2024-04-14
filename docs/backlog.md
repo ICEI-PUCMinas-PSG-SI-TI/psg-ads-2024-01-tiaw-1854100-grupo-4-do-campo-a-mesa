@@ -1,4 +1,7 @@
-links: https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/34
+links:
+
+kanban: https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/34
+
 miro:
 
 
