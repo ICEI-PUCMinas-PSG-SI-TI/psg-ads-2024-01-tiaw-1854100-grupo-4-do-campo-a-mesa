@@ -20,4 +20,7 @@ Este trabalho visa abordar os desafios relacionados à fome, segurança alimenta
 https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/34
 
 ## Instruções para uso
-Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
+Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo). 
+
+## Links do Projeto
+
