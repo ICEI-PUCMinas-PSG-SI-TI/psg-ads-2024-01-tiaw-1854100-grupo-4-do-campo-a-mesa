@@ -98,7 +98,7 @@ Agricultores, estudantes e professores em agricultura e nutrição, ongs e intit
  
 # Especificações do Projeto
 
-Nesta parte do documento, será abordada a especificação do projeto, detalhando os requisitos funcionais e não funcionais. Serão utilizadas técnicas como entrevistas com stakeholders, análise de documentos relacionados ao projeto e brainstorming para identificar e documentar os requisitos. Além disso, serão utilizadas ferramentas como diagramas de casos de uso, protótipos de interface, e ferramentas de gestão de requisitos para auxiliar na especificação e no acompanhamento dos requisitos ao longo do projeto.
+Serão utilizadas técnicas como entrevistas com stakeholders, análise de documentos relacionados ao projeto e brainstorming para identificar e documentar os requisitos. Além disso, serão utilizadas ferramentas como diagramas de casos de uso, protótipos de interface, e ferramentas de gestão de requisitos para auxiliar na especificação e no acompanhamento dos requisitos ao longo do projeto.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
