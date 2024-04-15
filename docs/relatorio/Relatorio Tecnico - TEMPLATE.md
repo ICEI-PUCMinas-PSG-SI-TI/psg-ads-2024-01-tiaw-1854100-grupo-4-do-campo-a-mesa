@@ -220,9 +220,9 @@ ________________________________________________________________________________
 
 **Objetivos chave:**
 
-**1:** Se integrar e interagir com profissionais mais experientes do mesmo nicho para receber orientações, compartilhamento de experiências e dicas importantes que poderão acrescentar ainda mais ao seu nível de conhecimento atual, assim o tornando um profissional mais capacitado e competente.
+**1-** Se integrar e interagir com profissionais mais experientes do mesmo nicho para receber orientações, compartilhamento de experiências e dicas importantes que poderão acrescentar ainda mais ao seu nível de conhecimento atual, assim o tornando um profissional mais capacitado e competente.
 
-**2:** se manter atualizado com as novas tecnologias  e tendências do setor agroindustrial (principalmente no quesito sustentabilidade), afim de implementar os mesmos em seu próprio ambiente de trabalho.
+**2-** se manter atualizado com as novas tecnologias  e tendências do setor agroindustrial (principalmente no quesito sustentabilidade), afim de implementar os mesmos em seu próprio ambiente de trabalho.
 
 **Como devemos tratá-lo:**
 
