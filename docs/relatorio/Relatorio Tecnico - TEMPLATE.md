@@ -365,4 +365,5 @@ Para concluir, o projeto tem como objetivo desenvolver um programa que auxilie n
 > o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
 > as principais dificuldes encontradas e como foi possível contorná-las. 
 
-
+template do miro pdf:
+[template mro.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/files/14972698/template.mro.pdf)
