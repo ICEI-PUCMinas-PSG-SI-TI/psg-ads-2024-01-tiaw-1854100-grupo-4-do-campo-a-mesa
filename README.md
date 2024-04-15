@@ -23,6 +23,8 @@ https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/34
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo). 
 
 ## Links do Projeto
+aquivo do miro em pdf:[template mro.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/files/14972808/template.mro.pdf)
+
 
 miro: https://miro.com/app/board/uXjVKXzZCNo=/
 
