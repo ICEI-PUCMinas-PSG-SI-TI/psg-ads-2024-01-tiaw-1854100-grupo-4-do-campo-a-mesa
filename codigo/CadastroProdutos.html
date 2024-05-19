@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Produtos</title>
+    <link rel="stylesheet" href="CadastroProdutos.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script> 
+    $(function(){
+        $("#tagCabecalho").load("cabeçalho.html"); 
+        $("#tagRodape").load("footer.html")
+    });
+</script>
+</head>
+
+<body>
+    <header>
+        <div id="tagCabecalho"></div>
+      </header>
+    <main>
+        <div class="conteudo-principal">
+            <div class="imagem">
+                <h3>Adicione a imagem do produto:</h3>
+                <input id="file" type="file">
+            </div>
+        </div>
+    </main>
+    <aside>
+        <form class="info_produto">
+            <div class="nome_produto">
+                <h3>Informe o nome do produto:</h3>
+                <input type="text" name="nome" id="nome">
+            </div>
+            <div class="preco">
+                <h3>Adicione o preço do produto:</h3>
+                <input type="number" min="0" step="0.01" name="valor" id="valor">
+            </div>
+            <div class="desc_produto">
+                <h3>Informe a descrição do produto:</h3>
+                <input type="text" name="descricao" id="descricao">
+            </div>
+            <div class="contato">
+                <h3>Digite o número de telefone para contato:</h3>
+                <input type="tel" id="telefone" name="telefone" pattern="\(\d{2}\)\s\d{4,5}-\d{4}" required
+                    placeholder="(XX) XXXXX-XXXX">
+            </div>
+            <div class="localizacao">
+                <h3>Informe sua localização:</h3>
+                <select name="estado" id="estado">
+                    <option value="AC">Acre</option>
+                    <option value="AL">Alagoas</option>
+                    <option value="AP">Amapá</option>
+                    <option value="AM">Amazonas</option>
+                    <option value="BA">Bahia</option>
+                    <option value="CE">Ceará</option>
+                    <option value="DF">Distrito Federal</option>
+                    <option value="ES">Espírito Santo</option>
+                    <option value="GO">Goiás</option>
+                    <option value="MA">Maranhão</option>
+                    <option value="MT">Mato Grosso</option>
+                    <option value="MS">Mato Grosso do Sul</option>
+                    <option value="MG">Minas Gerais</option>
+                    <option value="PA">Pará</option>
+                    <option value="PB">Paraíba</option>
+                    <option value="PR">Paraná</option>
+                    <option value="PE">Pernambuco</option>
+                    <option value="PI">Piauí</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="RN">Rio Grande do Norte</option>
+                    <option value="RS">Rio Grande do Sul</option>
+                    <option value="RO">Rondônia</option>
+                    <option value="RR">Roraima</option>
+                    <option value="SC">Santa Catarina</option>
+                    <option value="SP">São Paulo</option>
+                    <option value="SE">Sergipe</option>
+                    <option value="TO">Tocantins</option>
+                </select>
+            </div>
+            <button id="btnAnunciar">Anunciar</button>
+        </form>
+    </aside>
+    <footer>
+        <div id="tagRodape"></div>
+      </footer>
+    <script src="CadastroProdutos.js"></script>
+
+</body>
+
+</html>
