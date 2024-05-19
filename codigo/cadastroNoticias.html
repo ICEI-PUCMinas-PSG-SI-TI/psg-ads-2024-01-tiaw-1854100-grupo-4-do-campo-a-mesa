@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <title>cadastro de notícias</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script> 
+    $(function(){
+        $("#tagCabecalho").load("cabeçalho.html"); 
+        $("#tagRodape").load("footer.html")
+    });
+  </script>
+    
+</head>
+
+<body>
+   
+    <header>
+        <div id="tagCabecalho"></div>
+    </header>
+     
+<main>
+<div class="conteudo-principal">
+    <div class="container">
+        <h1>Cadastro de Notícias</h1>
+           <div class="formulário">
+           <input type="text" id="titulo" placeholder="Título da Notícia">
+               <input type="datetime-local" id="dataHora" placeholder="data e hora da publicação">
+           <textarea id="texto" placeholder="conteúdo da Notícia"></textarea>
+               <input id="file" type="file">
+               <input type="text" id="autor" placeholder="nome do autor">
+                <input type="text" id="fonte" placeholder="fonte da notícia">
+               <button id="adc" onclick="adicionarNoticia()">Adicionar Notícia</button>
+           </div>
+           <div id="lista-noticias" class="Lista-noticias"></div>
+       </div>
+   
+  </div>
+</main>
+        <footer>
+            <div id="tagRodape"></div>
+          </footer>
+    </footer>
+    <script src="assets/JavaScript/script.js"></script>
+
+   
+
+</body>
+
+</html>
