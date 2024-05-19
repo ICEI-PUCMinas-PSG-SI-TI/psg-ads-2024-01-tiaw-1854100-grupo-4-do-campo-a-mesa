@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <title>Historico</title>
+    </head>
+    <body>
+    <header> 
+        <div id="tagCabecalho"></div>
+    </header>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script>
+    $(function(){
+        $("#tagCabecalho").load("cabecalho/cabecalho.html"); 
+        $("#tagRodape").load("footer.html")
+    });
+    </script>
+<main>
+    <div class="container">
+        <h1>Últimas Notícias</h1>
+        <ul id="noticias-lista">
+
+        </ul>
+    </div>
+</main>
+<footer>
+    <footer>
+        <div id="tagRodape"></div>
+      </footer>
+</footer>
+    <script src="assets/js/script.js"></script>
+    
+</body>
+</html>
