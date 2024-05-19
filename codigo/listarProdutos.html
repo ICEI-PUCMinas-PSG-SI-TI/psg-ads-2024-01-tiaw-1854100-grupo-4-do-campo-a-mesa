@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Listar Produtos</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/listarProdutos.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script> 
+    $(function(){
+        $("#tagCabecalho").load("cabeçalho.html"); 
+        $("tagRodape").load("footer.html")
+    });
+</script>
+</head>
+<body>
+  <header>
+    <div id="tagCabecalho"></div>
+  </header>
+  <div class="container mt-5">
+    <h2>Produtos Anunciados:</h2>
+    <div class="row" id="cards">
+      <!-- Cards serão inseridos aqui -->
+    </div>
+  </div>
+  <footer>
+    <div id="tagRodape"></div>
+  </footer>
+
+  <script src="assets/JavaScript/listarProdutos.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+</body>
+</html>
