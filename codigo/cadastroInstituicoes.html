@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="assets/css/cadastroInstituicoes.css">
+        <title>cadastro de instituições</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+      <script> 
+        $(function(){
+            $("#tagCabecalho").load("cabeçalho.html"); 
+            $("#tagRodape").load("footer.html")
+        });
+      </script>
+        
+    </head>
+    
+ <body>
+   
+    <header>
+        <div id="tagCabecalho"></div>
+    </header>
+    
+    <main>
+        <div class="conteudo-principal">
+            <div class="container">
+                <h1>Divulgue sua instituição</h1>
+                   <form class="formulário">
+                   
+                   <label for="nome">nome:</label>
+                   <input type="text" id="nome" placeholder="nome da instituição">
+                   
+                   <label for="municipio">municipio:</label>
+                   <input type="text" id="municipio" name="municipio" placeholder="Município" required>
+                   
+                   <label for="uf">UF:</label>
+                   <input type="text" id="uf" name="uf" placeholder="UF/Estado" maxlength="2" required>
+                   
+                   <label for="descricao">Descrição:</label>
+                   <textarea id="descricao" placeholder="descrição"></textarea>
+                   
+                   <label for="objetivo">Objetivo:</label>
+                   <textarea id="objetivo" name="objetivo" placeholder="Objetivo" ></textarea>
+                   
+                   <input id="file" type="file">
+                  
+                   <label for="url">URL da pagina:</label>
+                   <input type="url" id="url" name="url" placeholder="URL da Página" required>
+
+                   <button id="adicionarInstituicao">Adicionar instituição</button>
+                   </form>
+                   <div id="lista-insituicoes" class="lista-insituicoes"></div>
+             </div>
+    
+         </div>
+
+       
+    </main>
+    <footer>
+        <div id="tagRodape"></div>
+      </footer>
+</footer>
+<script src="assets/JavaScript/cadastroInstituicoes.js"></script>
+
+    
+</body>
+</html>
