@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h2{
+    font-weight: bold;
+    padding: 10px;
+}
+.card {
+    transition: transform 0.3s;
+    text-decoration: none;
+}
+.card h5{
+    font-weight: bold;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+.card img{
+    height: 200px;
+    width: auto;
+}
+.card button{
+    padding: 10px 20px;
+    background-color: #058a26;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 45%;
+}
+@media (max-width: 768px){
+    
+    
+}
