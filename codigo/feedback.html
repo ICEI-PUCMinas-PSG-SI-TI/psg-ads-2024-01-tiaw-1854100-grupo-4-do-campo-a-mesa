@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback dos Usuários</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="feedback.css">
+    <script src="jquery-3.2.1.min.js"></script> 
+       
+</head>
+<body>
+    <div id="tagCabecalho"></div>
+    <div class="container mt-5">
+        <h2 class="mb-4">Deixe seu Feedback</h2>
+        <form id="feedbackForm" class="mb-4">
+            <div class="form-group">
+                <label for="name">Nome:</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="message">Mensagem:</label>
+                <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="image">Selecionar Imagem:</label>
+                <input type="file" class="form-control-file" id="image" name="image">
+            </div>
+            <button type="submit" class="btn btn-f">Enviar Feedback</button>
+        </form>
+        <div id="feedbackContainer"></div>
+        <div id="thankYouMessage" class="alert alert-success" style="display: none;">
+            Obrigado pelo seu feedback!
+        </div>
+    </div>
+    <div id="tagFooter"></div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="feedback.js"></script>
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script> 
+        $(function(){
+            $("#tagCabecalho").load("extra/cabecalho/cabecalho.html"); 
+            $("#tagFooter").load("extra/cabecalho/footer.html"); 
+        });
+        </script>
+
+</body>
+</html>
