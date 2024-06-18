@@ -1,6 +1,10 @@
-main h2{
-    padding-left: 570px;
+.info_pagina{
+    text-align: center;
     color: rgb(0, 152, 0);
+}
+main{
+    align-items:center;
+    text-align:justify;
 }
 #file{
     padding-right: 80px;
@@ -13,6 +17,7 @@ main h2{
     border-radius: 15px;
     border: none;
     padding: 10px;
+    cursor: pointer;
 }
 form input{
     border-radius: 4px;
@@ -20,40 +25,4 @@ form input{
 }
 form select{
     border-radius: 4px;
-}
-@media only screen and (max-width: 768px) {
-    main h2{
-        position: relative;
-        right: 550px;
-    }
-}
-@media only screen and (width: 768px) {
-    main h2{
-        position: relative;
-        right: 400px;
-    }
-}
-@media only screen and (width: 820px) {
-    main h2{
-        position: relative;
-        right: 378px;
-    }
-}
-@media only screen and (width: 1024px) {
-    main h2{
-        position: relative;
-        right: 278px;
-    }
-}
-@media only screen and (width: 912px) {
-    main h2{
-        position: relative;
-        right: 332px;
-    }
-}
-@media only screen and (width: 1280px) {
-    main h2{
-        position: relative;
-        right: 14 8px;
-    }
 }
