@@ -8,7 +8,6 @@ Este trabalho visa abordar os desafios relacionados à fome, segurança alimenta
 * Gabriel Carneiro de Brito
 * Ricardo Araújo Maciel
 * João Victor Rodrigues Viana dos Santos
-* Matheus Vieira Alane Fernandes
 * Vitor Fortunato Silva
 
 ## Professores responsáveis
