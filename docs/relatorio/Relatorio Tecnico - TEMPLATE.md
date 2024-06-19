@@ -13,7 +13,6 @@ Tecnologia em Análise e Desenvolv. de Sistemas - Unid. Educ. São Gabriel - PSG
 - Gabriel Carneiro de Brito
 - Ricardo Araújo Maciel
 - João Victor Rodrigues Viana dos Santos
-- Matheus Vieira Alane Fernandes
 - Vitor Fortunato Silva
 
 # Estrutura do Documento
