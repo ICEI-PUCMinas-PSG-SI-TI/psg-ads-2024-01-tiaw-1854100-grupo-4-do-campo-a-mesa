@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nós</title>
+    <link href="sobre.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="extra/cabecalho/styles.css">
+</head>
+<body>
+    <div id="tagCabecalho"></div>
+    <div class="container">
+        <div class="grid-container">
+            <div>
+                <h2>Quem somos</h2>
+                <p>Somos um grupo de 5 estudantes da PUC São Gabriel do curso de Análise e Desenvolvimento de Sistemas.</p>
+                <h2>Objetivo</h2>
+                <p>Nosso objetivo é de alguma forma ajudar nos desafios relacionados à fome, segurança alimentar, nutrição e agricultura sustentável, propondo soluções viáveis e sustentáveis.</p>
+                <h2>Missão</h2>
+                <p>Nossa missão é promover a sustentabilidade incentivando práticas agrícolas sustentáveis que melhorem a saúde e o bem-estar.</p>
+            </div>
+            <div>
+                <h2>Valores</h2>
+                <p>Nossos valores incluem promover práticas agrícolas que preservem os recursos naturais, protejam o meio ambiente e garantam a viabilidade a longo prazo das atividades agrícolas, além de apoiar e fortalecer as economias locais, promovendo mercados e cadeias de valor que beneficiem diretamente os agricultores familiares.</p>
+                <img src="img/imagem.webp" alt="Imagem representativa" class="img-fluid">
+            </div>
+        </div>
+    </div>
+    <div id="tagFooter"></div>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script> 
+        $(function(){
+            $("#tagCabecalho").load("extra/cabecalho/cabecalho.html"); 
+            $("#tagFooter").load("extra/cabecalho/footer.html"); 
+        });
+        </script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
