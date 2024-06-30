@@ -1,0 +1,22 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+.grid-container div {
+    padding: 10px;
+    ;
+}
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
+h2 {
+    margin-top: 79px;
+}
+.img-fluid {
+    width: 300px;
+    height: 200px;
+}
