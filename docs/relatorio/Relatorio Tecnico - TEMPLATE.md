@@ -32,6 +32,7 @@ Tecnologia em Análise e Desenvolv. de Sistemas - Unid. Educ. São Gabriel - PSG
   - [Wireframes](#wireframes)
   - [Mapa de navegação](#mapa-de-navegação)
 - [Conclusões](#avaliação-da-aplicação)
+- [Referências](#referências)
   
 # Introdução
 
@@ -41,21 +42,15 @@ Tecnologia em Análise e Desenvolv. de Sistemas - Unid. Educ. São Gabriel - PSG
  
  Em resumo, os desafios relacionados à fome, segurança alimentar, nutrição e agricultura sustentável são complexos e interconectados, exigindo abordagens integradas e multissetoriais para enfrentá-los de forma eficaz.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
-
 ## Objetivos
+
+Objetivo geral: desenvolver uma plataforma intuitiva onde pessoas que se interessam por agricultura sustentável ficarão por dentro de notícias do assunto, terão acesso a abas de anúncios de produtos e de instituições que apoiam esse tema, uma página focada em sustentabilidade e tudo isso sendo uma página segura e intuitiva
 
 Contribuir para o desenvolvimento e implementação de práticas agrícolas sustentáveis, que promovam a produção de alimentos saudáveis, a segurança alimentar e a nutrição adequada, visando a erradicação da fome e o alcance da segurança alimentar local.
 
-Desenvolver um plataforma que permita rastrear a produção, distribuição e consumo de alimentos, facilitando a doação de alimentos excedentes para instituições de caridade e comunidades carentes.
+Desenvolver um plataforma que permita instituições de caridade se anunciarem para poder receber doações 
 
-Criar uma plataforma online que conecte agricultores locais a consumidores, promovendo a compra de alimentos frescos e locais, apoiando assim a agricultura sustentável e fortalecendo as comunidades locais.
+Criar uma plataforma online que conecte agricultores locais a consumidores, promovendo o anúncio de alimentos frescos e locais, apoiando assim a agricultura sustentável e fortalecendo as comunidades locais.
 
 Desenvolver uma plataforma interativa que forneçam informações sobre nutrição, dietas saudáveis ​​e como utilizar alimentos disponíveis localmente para promover hábitos alimentares mais saudáveis.
 
@@ -63,45 +58,15 @@ Criar sistemas que monitorem o uso de recursos naturais na agricultura, como ág
 
 Desenvolver uma plataforma onde agricultores, pesquisadores e especialistas possam colaborar e compartilhar soluções inovadoras para os desafios enfrentados na agricultura sustentável.
 
-Desenvolver uma plataforma que ajudem as pessoas a planejar refeições saudáveis ​​e econômicas, utilizando ingredientes disponíveis localmente em Belo Horizonte e de baixo custo.
-
-
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolver uma plataforma que ajudem as pessoas a planejar refeições saudáveis ​​e econômicas, utilizando ingredientes orgânicos e de baixo custo.
 
 ## Público-Alvo
 
-Agricultores, estudantes e professores em agricultura e nutrição, ongs e intituições de caridade e consumidores.
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Agricultores, estudantes e professores em agricultura e nutrição, defensores da sustentabilidade, novas pessoas interessadas nos assuntos de sustentabilidade ou de agricultura, ongs e intituições de caridade e consumidores.
  
 # Especificações do Projeto
 
 Serão utilizadas técnicas como entrevistas com stakeholders, análise de documentos relacionados ao projeto e brainstorming para identificar e documentar os requisitos. Além disso, serão utilizadas ferramentas como diagramas de casos de uso, protótipos de interface, e ferramentas de gestão de requisitos para auxiliar na especificação e no acompanhamento dos requisitos ao longo do projeto.
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas
 
@@ -227,50 +192,17 @@ ________________________________________________________________________________
 
 O acolher de braços abertos para dentro da comunidade, respeitar suas opiniões e ideias, ouvi-lo, fazer com que o mesmo se sinta parte do ambiente, compartilhar suas experiências como profissional, tornar o ambiente de interação amigável e respeitar o seu tempo de aprendizagem como um iniciante da área que ele é.
 
-
-
-
-
-
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
->
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> 
-> **Exemplo de Ficha**
-> ![Exemplo de Persona](images/persona.png)
- 
-
-## Histórias de Usuários
+## Histórias de Usuário
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Entusiasta                  | De uma pagina para notícias                                | Conseguir ver as notícias diárias sobre o contexto do nossso site |
-|Algricultor mais experiente | De uma loja                                                | Vender e comprar produtos relacionados ao roma da agricultura sustentavel |
-|Algricultor iniciante       | De um forúm                                                | Trocar dicas e sanar dúvidas |
+|Agricultor mais experiente  | De uma página de anúncios de produtos                      | Vender e comprar produtos relacionados ao ramo da agricultura sustentavel |
 |Administrador               | De uma página de login e cadastro                          | Ter controle de acesso, segurança, gerenciamento de conta e uma boa comunicação no site |
-|Algricultor iniciante       | De uma página para recomendações de máquinas e ferramentas | Que os usuários do site possam comprar bons produtos |
-|Entusiasta                  | De uma pagina para apoiar projetos                         | Que possa contribuir financeiramento e com informações relacionadas a agricultura sustentavel |
-
-
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> da sua aplicação. Utilize as personas criadas como atores e, se for o caso, um administrador. 
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|Agricultor iniciante        | De uma página para recomendações de máquinas e ferramentas | Que os usuários do site possam comprar bons produtos |
+|Entusiasta                  | De uma pagina para apoiar projetos                         | Que possa contribuir financeiramente e com informações relacionadas a agricultura sustentavel |
 
 ## Requisitos
 
@@ -280,13 +212,16 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Sistema de loja intuitivo e eficiente | ALTA | 
+|RF-001| Sistema de anúncio de produtos intuitivo e eficiente | ALTA | 
 |RF-002| Implementar um catálogo para Exibição de Produtos | ALTA |
 |RF-003| Cadastro de usuários claro e ágil | MÉDIA |
 |RF-004| Fornecer atualizações nas páginas de informação | MÉDIA |
 |RF-005| Implementar o forúm de maneira simples de usar | MÉDIA |
 |RF-006| Sistema de doação confiável | ALTA |
-|RF-007| Auxiliar entusiastas e pequenos agricultores à se desenvolverem | ALTA |
+|RF-007| Auxiliar pessoas a fazerem dietas saudáveis | BAIXA |
+|RF-008| Exibir instituições que foram cadastradas para que usuários possaam fazer doações | ALTA |
+|RF-009| Uma página de notícias atualizada com frequência e completa | ALTA |
+|RF-010| Auxiliar entusiastas e pequenos agricultores à se desenvolverem | ALTA |
 
 ### Requisitos Não Funcionais
 
@@ -297,16 +232,9 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RNF-003| Desempenho: O sistema deve ser responsivo e capaz de lidar | ALTA | 
 |RNF-004| Manutenibilidade: O sistema deve ser fácil de manter e atualizar | ALTA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
 # Projeto da Solução
 
-Linguagem de programação: C#
+Linguagem de programação: JavaScript
 
 Front-end: HTML
 
@@ -314,55 +242,29 @@ CSS
 
 Ferramentas de design: Figma
 
-Miro
-
-IDE (Ambiente de Desenvolvimento Integrado): Visual Studio 
+Miro 
 
 Visual Studio Code
 
 Frameworks e Bibliotecas: Bootstrap
 
-
-> Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
-
 ## Wireframes
 
 (https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41-478&mode=design&t=xSkbNHuNbQcg8009-0)
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Link para Wireframe](images/wireframe-example.png)
-
 
 ## Mapa de navegação
 
 (https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41%3A512&mode=design&t=zOxPmGv5EzIBndCs-1)
 
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
-
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
-
 # Conclusões
 
 Para concluir, o projeto tem como objetivo desenvolver um programa que auxilie na busca da fome zero e de uma agricultura mais sustentável, utilizando tecnologias como HTML, CSS, Figma e Miro para auxiliar no design e na interface do programa. Uma das principais dificuldades encontradas foi a necessidade de lidar com possíveis mudanças no design e no escopo do projeto, o que foi contornado com uma abordagem flexível e o uso de ferramentas de design e metodologias ágeis. Para trabalhos futuros, pretende-se explorar a integração com serviços web para enriquecer a funcionalidade do programa, além de melhorar a interface do usuário com um design mais atraente e implementar recursos adicionais.
 
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+## Referências
+
+https://agriculture.basf.com/br/pt/agricultura-sustentavel.html
+https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade
+https://gaasbrasil.com.br/
 
 template do miro pdf:
 [template mro.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-4-do-campo-a-mesa/files/14972698/template.mro.pdf)
