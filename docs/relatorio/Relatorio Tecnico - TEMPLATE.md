@@ -250,11 +250,11 @@ Frameworks e Bibliotecas: Bootstrap
 
 ## Wireframes
 
-(https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41-478&mode=design&t=xSkbNHuNbQcg8009-0)
+(https://www.figma.com/board/lwYASmlVh2dSonbKu7JlZx/Fluxograma-%7C-Crie-sua-aventura-(Community)?node-id=0-1&t=5hsTmn7ABE26Xgv7-1)
 
 ## Mapa de navegação
 
-(https://www.figma.com/file/mYP0QjLLCm5XaQ29k2RLvm/Projeto_Tiaw?type=design&node-id=41%3A512&mode=design&t=zOxPmGv5EzIBndCs-1)
+(https://www.figma.com/board/lwYASmlVh2dSonbKu7JlZx/Fluxograma-%7C-Crie-sua-aventura-(Community)?node-id=0-1&t=5hsTmn7ABE26Xgv7-1)
 
 # Conclusões
 
