@@ -1,0 +1,77 @@
+/* Estilos básicos para a página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+
+/* Container principal */
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    flex: 1;
+}
+
+/* Estilos para detalhes do produto */
+.product-details {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-top: 20px;
+    font-size: large;
+}
+
+.product-image {
+    flex: 2;
+    max-width: 100%;
+    max-height: 1000px; /* Defina uma altura máxima */
+    margin-bottom: 20px;
+    border: 2px solid #ccc; /* Adiciona um contorno à imagem */
+    padding: 10px;
+    box-sizing: border-box;
+    object-fit: contain; /* Faz com que a imagem se ajuste dentro do contêiner */
+}
+
+.product-info {
+    flex: 2;
+    margin-left: 20px;
+}
+
+.back-button {
+    margin-top: 20px;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    .product-details {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .product-info {
+        margin-left: 0;
+        text-align: center;
+    }
+    
+    .product-info h2 {
+        font-size: 1.5rem;
+    }
+    
+    .product-info p {
+        font-size: 1rem;
+    }
+}
+
+/* Estilos para o rodapé fixo */
+footer {
+    background-color: #f1f1f1;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
